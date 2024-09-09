@@ -10,5 +10,6 @@ int main(){
   y = aux;
   std::cout << x << ", " << y << std::endl;
   std::cout << "Hola Alse" << std::endl;
+  std::cout << "nuestro primer contacto con el VScode de Windows con un proyecto en WSL2\n";
   return 0;
 }
