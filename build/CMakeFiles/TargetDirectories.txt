@@ -1,3 +1,0 @@
-/home/miguelcastillo/ALSE_2420/Taller_struct/build/CMakeFiles/complejos.dir
-/home/miguelcastillo/ALSE_2420/Taller_struct/build/CMakeFiles/edit_cache.dir
-/home/miguelcastillo/ALSE_2420/Taller_struct/build/CMakeFiles/rebuild_cache.dir

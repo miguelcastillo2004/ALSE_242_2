@@ -1,4 +1,0 @@
-/home/miguelcastillo/Proyectos/ALSE_2420/Ej1/build/CMakeFiles/eje3.dir
-/home/miguelcastillo/Proyectos/ALSE_2420/Ej1/build/CMakeFiles/eje4.dir
-/home/miguelcastillo/Proyectos/ALSE_2420/Ej1/build/CMakeFiles/edit_cache.dir
-/home/miguelcastillo/Proyectos/ALSE_2420/Ej1/build/CMakeFiles/rebuild_cache.dir
