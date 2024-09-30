@@ -60,6 +60,8 @@ bool operator>(const complex& a, const complex& b) {
 
 // Esta sobrecarga es espacial. Indague cómo se debe realizar, explique su correcto funcionamiento
 // e implementela.
+// esta función sobrecarga el operador '<<' para imprimir nnmeros complejos con 'std'. Si la parte imaginaria es positiva, se agrega un 
+// signo + antes del numero. Si es negativa, no se agrega el signo +
 ostream& operator<<(std::ostream& out, const complex& a) {
 	out << "(" << a.re << ", " << a.im << ")";
     return out;
